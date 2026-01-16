@@ -1,0 +1,20 @@
+SVM RESULTS (IMDb Data):
+              precision    recall  f1-score   support
+
+           0       0.88      0.85      0.86       530
+           1       0.83      0.87      0.85       470
+
+    accuracy                           0.86      1000
+   macro avg       0.86      0.86      0.86      1000
+weighted avg       0.86      0.86      0.86      1000
+
+
+NAIVE BAYES RESULTS (IMDb Data):
+              precision    recall  f1-score   support
+
+           0       0.82      0.87      0.85       530
+           1       0.84      0.79      0.82       470
+
+    accuracy                           0.83      1000
+   macro avg       0.83      0.83      0.83      1000
+weighted avg       0.83      0.83      0.83      1000
