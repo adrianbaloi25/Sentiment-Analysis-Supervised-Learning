@@ -1,5 +1,5 @@
 # Proiect: Tehnici de Învățare Automată (TIA)
-Student: Adrian Costin Băloi, grupa 344AB
+Student: Adrian Costin Băloi, grupa 334AB
 
 ## Aplicație: Analiza Sentimentelor în Recenziile de Filme (Sentiment Analysis)
 
@@ -86,5 +86,6 @@ Preprocesarea și vectorizarea TF-IDF sunt critice pentru succesul modelelor de 
 SVM oferă o robustețe geometrică mare, în timp ce Naive Bayes este o soluție probabilistică extrem de rapidă.
 
 Ambele metode sunt adecvate pentru analiza sentimentelor, oferind rezultate competitive.
+
 
 Proiectul poate fi extins prin utilizarea Deep Learning (rețele neuronale de tip LSTM sau modele Transformer) pentru a gestiona nuanțe lingvistice mai complexe, precum sarcasmul.
